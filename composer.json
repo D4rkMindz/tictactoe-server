@@ -1,0 +1,10 @@
+{
+  "require": {
+    "cakephp/database": "^3.4"
+  },
+  "autoload": {
+    "psr-4": {
+      "App\\": "src"
+    }
+  }
+}
