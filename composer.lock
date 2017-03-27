@@ -47,16 +47,16 @@
         },
         {
             "name": "cakephp/database",
-            "version": "3.4.2",
+            "version": "3.4.3",
             "source": {
                 "type": "git",
                 "url": "https://github.com/cakephp/database.git",
-                "reference": "aaa4f2bbfa02fbec98e8ea0ed6eb00b9a9be0659"
+                "reference": "5f6e64b60341b0ea25a29290e25358c101e38ac9"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/cakephp/database/zipball/aaa4f2bbfa02fbec98e8ea0ed6eb00b9a9be0659",
-                "reference": "aaa4f2bbfa02fbec98e8ea0ed6eb00b9a9be0659",
+                "url": "https://api.github.com/repos/cakephp/database/zipball/5f6e64b60341b0ea25a29290e25358c101e38ac9",
+                "reference": "5f6e64b60341b0ea25a29290e25358c101e38ac9",
                 "shasum": ""
             },
             "require": {
@@ -84,20 +84,20 @@
                 }
             ],
             "description": "Flexible and powerful Database abstraction library with a familiar PDO-like API",
-            "time": "2017-02-22T20:20:18+00:00"
+            "time": "2017-03-09T08:56:59+00:00"
         },
         {
             "name": "cakephp/datasource",
-            "version": "3.4.2",
+            "version": "3.4.3",
             "source": {
                 "type": "git",
                 "url": "https://github.com/cakephp/datasource.git",
-                "reference": "25d86635237c49b050a4ac54472d7f56e31d4d03"
+                "reference": "760e683a2e1fcd2e50be1ee2768f9b98241a84b0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/cakephp/datasource/zipball/25d86635237c49b050a4ac54472d7f56e31d4d03",
-                "reference": "25d86635237c49b050a4ac54472d7f56e31d4d03",
+                "url": "https://api.github.com/repos/cakephp/datasource/zipball/760e683a2e1fcd2e50be1ee2768f9b98241a84b0",
+                "reference": "760e683a2e1fcd2e50be1ee2768f9b98241a84b0",
                 "shasum": ""
             },
             "require": {
@@ -124,7 +124,7 @@
                 }
             ],
             "description": "Provides connection managing and traits for Entities and Queries that can be reused for different datastores",
-            "time": "2017-02-22T11:11:04+00:00"
+            "time": "2017-03-10T02:01:09+00:00"
         },
         {
             "name": "cakephp/utility",
