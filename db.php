@@ -9,7 +9,7 @@ function db()
     if ($db === null) {
         $driver = new Mysql([
             'host' => "127.0.0.1",
-            'database' => "test",
+            'database' => "tic-tac-toe",
             'username' => "root",
             'password' => "",
             'prefix' => '',
